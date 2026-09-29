@@ -1,3 +1,13 @@
+# 数学教育 HOT
+
+认知科学 × 学习科学、AI × 数学教育的每周阅读站，基于下方 AIHOT 开源框架制作静态发行版。
+
+[阅读网站](https://a0910580996-a11y.github.io/math-education-hot/) · [部署与扩展](docs/math-education-hot.md) · [编辑规则](industry/weekly/editorial.md)
+
+运行 `node scripts/build-static.mjs` 生成 GitHub Pages 产物。当前通过 Codex 本地每周编辑任务更新，未部署下方原版服务端。栏目配置和信源在 `industry/weekly/`，正式周报在 `content/weekly.json`。以下保留上游 README 作为完整框架说明，不代表本静态站已启用其中所有功能。
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/assets/banner-dark.png">

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "learning-science",
+    "name": "认知科学 × 学习科学",
+    "shortName": "学习科学",
+    "color": "green",
+    "description": "每次一条规律，重新理解学习。",
+    "prompt": "industry/weekly/prompts/learning-science.md",
+    "maxItems": 1
+  },
+  {
+    "id": "ai-math",
+    "name": "AI × 数学教育",
+    "shortName": "教育观察",
+    "color": "red",
+    "description": "从真实课堂，看产品与技术的变化。",
+    "prompt": "industry/weekly/prompts/ai-math.md",
+    "maxItems": 3
+  }
+]

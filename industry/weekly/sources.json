@@ -1,0 +1,11 @@
+[
+  {"name":"Educational Psychology Review","url":"https://link.springer.com/journal/10648","channel":"learning-science","kind":"journal","evidence":"系统综述与元分析；逐篇核实研究类型"},
+  {"name":"Journal of Educational Psychology","url":"https://www.apa.org/pubs/journals/edu","channel":"learning-science","kind":"journal","evidence":"学习与教学实验；注意样本和迁移范围"},
+  {"name":"Retrieval Practice · 研究数据库","url":"https://www.retrievalpractice.org/strategies/2019/10/28/database-of-retrieval-practice-research","channel":"learning-science","kind":"researcher","evidence":"研究者维护，优先回到原论文"},
+  {"name":"PNAS","url":"https://www.pnas.org/","channel":"learning-science","kind":"journal","evidence":"原始研究；区分实验结果与机制推测"},
+  {"name":"NBER · 教育研究","url":"https://www.nber.org/programs-projects/programs-working-groups/economics-education","channel":"ai-math","kind":"working-paper","evidence":"工作论文不等于已通过同行评审"},
+  {"name":"Khan Academy","url":"https://blog.khanacademy.org/","channel":"ai-math","kind":"official","evidence":"可证实产品动作，不能单独证实学习效果"},
+  {"name":"Amplify · Desmos Classroom","url":"https://amplify.com/programs/desmos-classroom/","channel":"ai-math","kind":"official","evidence":"数学课堂工具与课程实践"},
+  {"name":"GeoGebra","url":"https://www.geogebra.org/","channel":"ai-math","kind":"official","evidence":"数学可视化产品；区分演示和学习证据"},
+  {"name":"Stanford SCALE","url":"https://scale.stanford.edu/","channel":"ai-math","kind":"research","evidence":"教育实践与证据综述，追溯研究原文"}
+]
